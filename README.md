@@ -14,5 +14,5 @@ Calculadora con interfaz gráfica desarrollada en Python usando Tkinter.
 
 ## Cómo ejecutarlo
 ```bash
-python "Calculadora_100_.py"
+python "Calculadora.py"
 ```
